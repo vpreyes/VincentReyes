@@ -2,33 +2,46 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Rice geneticist, bioinformatician, and microbiome researcher | Nagoya University
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: false
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a geneticist and bioinformatician working at the interface of plant genomics, quantitative genetics, and microbial ecology. My research focuses on applying computational and genomic approaches to understand complex biological traits in crops and livestock-associated microbiomes.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current work includes genomic prediction and genome-wide association analysis in rice nested association mapping populations, QTL and marker development for agronomic traits, and metagenomic analysis of cattle rumen microbiomes. I also work on plastome-based systematics and biodiversity-related genomic resources.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Current Research
+
+- **Rice quantitative genetics and genomics** — genomic prediction, GWAS, and marker-density optimization in aus-derived rice NAM populations  
+- **QTL mapping and marker development** — identification and validation of candidate loci for agronomic traits such as heading date, plant architecture, and stress-related traits  
+- **GBS and sequencing data analysis** — processing, filtering, and interpretation of genotyping-by-sequencing datasets for rice genetics studies  
+- **Rumen microbiome and metagenomics** — 16S rRNA and shotgun metagenomic analysis of cattle rumen microbial communities  
+- **Plant systematics and plastome genomics** — chloroplast genome assembly, comparative plastomics, and phylogenomic analysis  
+
+### Research Interests
+
+Quantitative genetics · Genomic selection · GWAS · QTL mapping · Marker-assisted selection · Rice genomics · GBS pipelines · Metagenomics · Microbiome ecology · Plastome genomics · Plant systematics
+
+### Skills
+
+**Genomics and Quantitative Genetics:**  
+NAM populations, GWAS, QTL mapping, marker regression, candidate gene analysis, marker development
+
+**Bioinformatics:**  
+GBS pipelines, SNP filtering, sequencing data analysis, 16S rRNA analysis, shotgun metagenomics, plastome assembly, comparative genomics
+
+**Programming and Data Analysis:**  
+R, Python, Bash, SQL, ggplot2, phyloseq, vegan, QIIME2, scikit-learn
+
+**Microbiome and Metagenomics:**  
+Rumen microbiome analysis, diversity analysis, PERMANOVA, db-RDA, pathway analysis, MAG-oriented workflows
+
+**Computing:**  
+Linux, HPC environments, conda environments, shell scripting, reproducible bioinformatics workflows
